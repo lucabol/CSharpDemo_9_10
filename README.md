@@ -9,7 +9,7 @@ Steps:
 1. Show the usual StackOverflow survey (both useful and loved).
 2. Run the program to show what it does.
 3. Add the function `print`, calld `.` in Forth, popping and printing the pop of the stack.
-4. Move project file to .net 6, recompile.
+4. Move project file to 'net6.0', recompile.
 5. Fix the Nullable error, it is the default.
 6. Change to Global Usings and Implicit Usings.
 7. File scoped namespace.
