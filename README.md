@@ -11,7 +11,7 @@ Steps:
 3. Add the function `print`, calld `.` in Forth, popping and printing the pop of the stack.
 4. Move project file to 'net6.0', recompile.
 5. Fix the Nullable error, it is the default.
-6. Change to Global Usings and Implicit Usings.
+6. Change to Global Usings and <implicitUsings>.
 7. File scoped namespace.
 8. [Open up `ILSpy` and keep it open beside Visual Studio]
 9. Record class for Vm, record struct for Wod (ILSpy).
